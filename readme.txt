@@ -7,3 +7,4 @@ I will conquer my weaknesses.
 Creating  a new branch is quick and simple.
 meximexi
 hello world
+你好中国
